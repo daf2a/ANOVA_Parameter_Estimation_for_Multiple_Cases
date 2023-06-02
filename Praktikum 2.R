@@ -8,14 +8,18 @@ std1 <- sd(diff)
 std1
 
 #1B
-t.test(y, x, paired = TRUE)
+t.test(before, after, alternative = "greater", var.equal = FALSE)
 
 #1C
 var.test(y, x)
 t.test(y, x, var.equal = TRUE)
 
-#2A
-library(myPackage)
+
+
+#2B
+install.packages("BSDA")
+library(BSDA)
+
 zsum.test(mean.x = 23500, sigma.x = 3000, n.x = 100,
           alternative = "greater", mu = 25000,
           conf.level = 0.95)
@@ -54,7 +58,7 @@ str(GTL)
 anova <- aov(Light ~ Glass*Temp_Factor, data = GTL)
 summary(anova)
 
-#4D
+#4C
 data_summary <- group_by(GTL, Glass, Temp) %>%
   summarise(mean=mean(Light), sd=sd(Light)) %>%
   arrange(desc(mean))
