@@ -12,9 +12,10 @@ NRP Praktikan : 5025211015
 
 ### 1. Pengaruh Aktivitas A terhadap Kadar Saturasi Oksigen pada Manusia
 
-a.
+a. Carilah Standar deviasi dari data selisih pasangan pengamatan tabel
 
 ```r
+
 
 ```
 
@@ -24,7 +25,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-b.
+b. Carilah nilai t (p-value)
 
 ```r
 
@@ -36,7 +37,11 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-c.
+c. Tentukanlah apakah terdapat pengaruh yang signifikan secara statistika dalam 
+hal kadar saturasi oksigen , sebelum dan sesudah melakukan aktivitas 𝐴 jika 
+diketahui tingkat signifikansi 𝛼 = 5% serta H0 : “tidak ada pengaruh yang
+signifikan secara statistika dalam hal kadar saturasi oksigen sebelum dan sesudah 
+melakukan aktivitas 𝐴”.
 
 ```r
 
@@ -50,7 +55,7 @@ Penjelasan :
 
 ### 2. Uji Klaim Rata-rata Jarak Tempuh Mobil
 
-a.
+a. Apakah Anda setuju dengan klaim tersebut? Jelaskan.
 
 ```r
 
@@ -62,7 +67,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-b.
+b. Buatlah kesimpulan berdasarkan p-value yang dihasilkan!
 
 ```r
 
@@ -76,7 +81,7 @@ Penjelasan :
 
 ### 3. Analisis Perbedaan Rata-rata Saham antara Kota Bandung dan Bali
 
-a.
+a. H0 dan H1
 
 ```r
 
@@ -88,7 +93,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-b.
+b. Hitung sampel statistik
 
 ```r
 
@@ -100,7 +105,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-c.
+c. Lakukan uji statistik (df =2)
 
 ```r
 
@@ -112,7 +117,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-d.
+d. Nilai kritikal
 
 ```r
 
@@ -124,7 +129,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-e.
+e. Keputusan
 
 ```r
 
@@ -150,7 +155,7 @@ Penjelasan :
 
 ### 4. Pengaruh Suhu dan Jenis Kaca Pelat Muka terhadap Keluaran Cahaya Tabung Osiloskop
 
-a.
+a. Buatlah plot sederhana untuk visualisasi data.
 
 ```r
 
@@ -162,7 +167,7 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-b.
+b. Lakukan uji ANOVA dua arah.
 
 ```r
 
@@ -174,7 +179,8 @@ Screenshoot : <br />
 Penjelasan :
 <br />
 
-c.
+c. Tampilkan tabel dengan mean dan standar deviasi keluaran cahaya untuk setiap 
+perlakuan (kombinasi kaca pelat muka dan suhu operasi).
 
 ```r
 
