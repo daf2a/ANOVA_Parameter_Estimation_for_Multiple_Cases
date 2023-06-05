@@ -126,9 +126,9 @@ didapatkanlah data berikut dari perusahaan saham tersebut.
 Dari data di atas berilah keputusan serta kesimpulan yang didapatkan. Asumsikan  nilai variancenya sama, apakah ada perbedaan pada rata-ratanya (α= 0.05)? 
 
 a. H0 dan H1
-- Perhitungan H0 = 9.74765
+- Perhitungan H0 = 9.74765 <br />
     ![3a1](/img/3a1.png)
-- Perhitungan H1 = 9.664844
+- Perhitungan H1 = 9.664844 <br />
     ![3a2](/img/3a2.png)
 
 b. Hitung sampel statistik
